@@ -1,16 +1,28 @@
-## Hi there 👋
+# Halo, saya Aldi dwi rizqi  👋
 
-<!--
-**AldiDR/AldiDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang programmer yang tertarik pada pengembangan software dan terus belajar teknologi baru.
 
-Here are some ideas to get you started:
+## 🚀 Skill
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Sedang Dipelajari
+- React
+- Node.js
+- Database (MySQL/)
+
+## 💼 Proyek
+### 1. Website Portofolio
+Website pribadi untuk menampilkan profil dan proyek.
+
+### 2. Aplikasi To-Do List
+Aplikasi manajemen tugas menggunakan JavaScript.
+
+### 3. Sistem Kasir Sederhana
+Aplikasi pencatatan transaksi dan laporan penjualan.
+
+## 📫 Kontak
+- Email: [kentongaldi@gmail.com]
+- LinkedIn: [aldi dwi rizqi]
